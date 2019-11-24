@@ -4,6 +4,7 @@ from django.http import HttpResponse
 
 def index(request):
     return HttpResponse("Hello, world. You're at the polls index.")
-def project
+def project():
+    pass
 # Create your views here.
 #more
